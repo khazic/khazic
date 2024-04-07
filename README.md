@@ -2,15 +2,6 @@
 <br>
 
 
-<a href=#><img src="contributions.svg"></a>
-
-
-<div float="right"> 
- 
- 
-
-
-
 📰 **学术主页(academic homepage)：**<a href="https://github.com/khazic" target="_blank"> Github地址</a>
 
 🐟 **个人知乎（Zlog）：**<a href="https://www.zhihu.com/people/khazic" target="_blank"> 知乎地址</a>
