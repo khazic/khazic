@@ -9,10 +9,10 @@
 <a href="https://www.instagram.com/jimtom592_">
   <img align="center" alt="Falguni @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
-📰 **学术主页(academic homepage)：**<a href="https://github.com/khazic" target="_blank"> junfeng xiao</a>
+📰 **学术主页(academic homepage)：**<a href="https://github.com/khazic" target="_blank"> Github地址</a>
 
 
-🐟 **个人知乎（Zlog）：**<a href="https://www.zhihu.com/people/khazic" target="_blank"> 我的知乎</a>
+🐟 **个人知乎（Zlog）：**<a href="https://www.zhihu.com/people/khazic" target="_blank"> 知乎地址</a>
 
 ## Learning Scope
 - Machine Learning
