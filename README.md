@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 # This is khazzz1c here
-Parameter tuning and more than parameter tuning
+Lifelong student
 
 ## Learning Scope
+- Machine Learning
 - Deep Learning
-- Data Science
-- Quantification
-- Python Backend
+- Reinforcement Learning
+- Python Enthusiast
 
 ## GitHub Stats
 <a href="https://github.com/Rid7/Rid7">
