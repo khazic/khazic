@@ -1,19 +1,6 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 khazzz1c(Lao)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <br>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeW9h2G/2U5NRmeCtXCBkhjI9qV1OWV1vF8DgWRRyj5TmSL+G/kJjF76j0s3w" crossorigin="anonymous">
-
-
-<a href="mailto:khazzz1c@gmail.com">
-  <i class="fas fa-envelope" style="font-size:22px; color:#D14836;"></i> <!-- Gmail -->
-</a>
-<a href="https://twitter.com/Khazzz1c">
-  <i class="fab fa-twitter" style="font-size:22px; color:#1DA1F2;"></i> <!-- Twitter -->
-</a>
-<a href="https://www.instagram.com/khazzz1c/">
-  <i class="fab fa-instagram" style="font-size:22px; color:#C13584;"></i> <!-- Instagram -->
-</a>
-
 
 📰 **学术主页(academic homepage)：**<a href="https://github.com/khazic" target="_blank"> Github地址</a>
 
