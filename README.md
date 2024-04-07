@@ -7,12 +7,10 @@
 🐟 **个人知乎（Zlog）：**<a href="https://www.zhihu.com/people/khazic" target="_blank"> 知乎地址</a>
 
 ## Learning Scope
-
 - Machine Learning
 - Deep Learning
 - Reinforcement Learning
 - Python Enthusiast
-
 ## GitHub Stats
 
 <a href="https://github.com/khazic/khazic">
