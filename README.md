@@ -1,12 +1,12 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 khazzz1c(Lao)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <br>
-<a href="mailto:jimt40395@gmail.com">
+<a href="mailto:khazzz1c@gmail.com">
   <img align="center" alt="Falguni @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://twitter.com/jimt40395">
+<a href="https://twitter.com/Khazzz1c">
   <img align="center" alt="Falguni @Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/jimtom592_">
+<a href="https://www.instagram.com/khazzz1c/">
   <img align="center" alt="Falguni @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 📰 **学术主页(academic homepage)：**<a href="https://github.com/khazic" target="_blank"> Github地址</a>
