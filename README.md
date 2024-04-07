@@ -44,10 +44,4 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 <hr>
-<p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> <i><b>GitHub Stats...</b></i><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=2404589803&theme=tokyonight&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2404589803&theme=tokyonight&show_icons=true" />
-</p>
-<!-- can't stop myself from editing🤷... -->
