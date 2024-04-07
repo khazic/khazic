@@ -11,6 +11,7 @@
 - Deep Learning
 - Reinforcement Learning
 - Python Enthusiast
+- 一直是个学生 致力于学习算法技术
 # GitHub Stats
 
 <a href=#><img src="contributions.svg"></a>
