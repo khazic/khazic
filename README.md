@@ -1,9 +1,9 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 khazzz1c(Lao)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <br>
-<!-- 链接到 Font Awesome 的 CSS 文件 -->
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeW9h2G/2U5NRmeCtXCBkhjI9qV1OWV1vF8DgWRRyj5TmSL+G/kJjF76j0s3w" crossorigin="anonymous">
 
-<!-- 使用 Font Awesome 的图标 -->
+
 <a href="mailto:khazzz1c@gmail.com">
   <i class="fas fa-envelope" style="font-size:22px; color:#D14836;"></i> <!-- Gmail -->
 </a>
