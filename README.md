@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**khazic/khazic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# This is khazzz1c here
+Parameter tuning and more than parameter tuning
 
-Here are some ideas to get you started:
+## Learning Scope
+- Deep Learning
+- Data Science
+- Quantification
+- Python Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+<a href="https://github.com/Rid7/Rid7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rid7&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+<a href="https://github.com/Rid7/Rid7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rid7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+## Highlights
+<a href="https://github.com/Rid7/Table-OCR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rid7&repo=Table-OCR&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Rid7/mml">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rid7&repo=mml&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
