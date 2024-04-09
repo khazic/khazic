@@ -1,12 +1,15 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 khazzz1c(Lao)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<br> 
-    
+<br>
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/{khazic}/count.svg" />
-  
+</div>
+
 📰 **学术主页(academic homepage)：**<a href="https://github.com/khazic" target="_blank"> Github地址</a>
 
 🐟 **个人知乎（Zlog）：**<a href="https://www.zhihu.com/people/khazic" target="_blank"> 知乎地址</a>
+
 
 # Learning Scope
 - Machine Learning
