@@ -1,10 +1,12 @@
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 khazzz1c(Lao)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 khazzz1c (Lao) ？<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{khazic}/count.svg" />
+  <img src="https://profile-counter.glitch.me/{khazic}/count.svg" alt="Visitor Count" />
 </div>
+
+<br> <!-- Added line break here -->
 
 📰 **学术主页(academic homepage)：**<a href="https://github.com/khazic" target="_blank"> Github地址</a>
 
