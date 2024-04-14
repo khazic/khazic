@@ -20,6 +20,7 @@
 - Python Enthusiast
 - Retrieval-Augmented Generation
 - 一直是个学生 致力于学习算法技术
+- 曾许人间第一流 然至今日 犹自属于未遂之列
   
 # GitHub Stats
 
