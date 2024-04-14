@@ -1,4 +1,4 @@
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 khazzz1c (Lao) ？<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">𝐇alo, 𝐟𝐞𝐥𝐥𝐨𝐰 khazzz1c (Lao) ？<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <br>
 
