@@ -14,11 +14,9 @@
 
 
 # Learning Scope
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
-- Python Enthusiast
-- Retrieval-Augmented Generation
+- 机器学习但不基
+- 深度学习但不深
+- 强化学习但不强
 - 一直是个学生 致力于学习算法技术
 - 曾许人间第一流 然至今日 犹自属于未遂之列
   
