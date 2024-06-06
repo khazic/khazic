@@ -23,7 +23,7 @@
 # GitHub Stats
 
 <a href=#><img src="contributions.svg"></a>
-
+<a href=#><img src="contributions.svg"></a>
 
 <div float="right"> 
 
