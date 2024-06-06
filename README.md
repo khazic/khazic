@@ -1,3 +1,4 @@
+<a href=#><img src="kkk.jpg"></a>
 <h1 align="center"> 𝐻𝑒𝑙𝑙𝑜, 𝑓𝑒𝑙𝑙𝑜𝑤 𝑘ℎ𝑎𝑧𝑧𝑧1𝑐 ？<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <br>
@@ -22,7 +23,6 @@
   
 # GitHub Stats
 
-<a href=#><img src="contributions.svg"></a>
 <a href=#><img src="contributions.svg"></a>
 
 <div float="right"> 
