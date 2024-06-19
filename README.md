@@ -14,7 +14,7 @@
 🐟 **个人知乎（Zlog）：**<a href="https://www.zhihu.com/people/khazic" target="_blank"> 知乎地址</a>
 
 
-# Learning Scope
+# Life Past
 - 一直是个学生 致力于学习算法技术
 - 曾许人间第一流 然至今日 犹自属于未遂之列
   
