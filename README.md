@@ -16,12 +16,12 @@
 
 # Life Past
 
-- 你闻到了吗
-- 风里 已经有了夏的味道
-- 我的意思是
-- 在这个清风徐来的季节里
-- 随风声 随花香 随着烟火气
-- 见一面
+- Can you smell it?
+- The breeze already has that summer vibe.
+- What I'm saying is,
+- In this cool, breezy season,
+- With the sound of the wind, the scent of flowers, and the hustle and bustle,
+- Let's meet up.
   
 # GitHub Stats
 
