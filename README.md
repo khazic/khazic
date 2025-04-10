@@ -9,9 +9,9 @@
 
 <br> <!-- Added line break here -->
 
-📰 **学术主页(academic homepage)：**<a href="https://scholar.google.com.hk/citations?user=ntydloAAAAAJ&hl=zh-CN" target="_blank"> Github地址</a>
+📰 **Academic homepage：**<a href="https://scholar.google.com.hk/citations?user=ntydloAAAAAJ&hl=zh-CN" target="_blank"> Google scholar</a>
 
-🐟 **个人知乎（Zlog）：**<a href="https://www.zhihu.com/people/khazic" target="_blank"> 知乎地址</a>
+🐟 **Blog：**<a href="https://factual-panther-067.notion.site/Khazzz1c-s-Blog-post-151d29780b58801bb2bddd42eb81c73d" target="_blank"> Notion logs</a>
 
 
 # Life Past
