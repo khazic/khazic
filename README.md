@@ -3,12 +3,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/{khazic}/count.svg" alt="Visitor Count" />
-</div>
-
-<br> <!-- Added line break here -->
-
 📰 **Academic homepage：**<a href="https://scholar.google.com.hk/citations?user=ntydloAAAAAJ&hl=zh-CN" target="_blank"> Google scholar</a>
 
 🐟 **Blog：**<a href="https://factual-panther-067.notion.site/Khazzz1c-s-Blog-post-151d29780b58801bb2bddd42eb81c73d" target="_blank"> Notion logs</a>
