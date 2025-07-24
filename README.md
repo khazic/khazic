@@ -1,13 +1,6 @@
-<a href=#><img src="IMG_1532.JPG"></a>
+<a href=#><img src="IMG_2665.JPG"></a>
 <h1 align="center"> 𝐻𝑒𝑙𝑙𝑜, 𝑡ℎ𝑖𝑠 𝑖𝑠 𝑘ℎ𝑎𝑧𝑧𝑧1𝑐 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<br>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/{khazic}/count.svg" alt="Visitor Count" />
-</div>
-
-<br> <!-- Added line break here -->
 
 📰 **Academic homepage：**<a href="https://scholar.google.com.hk/citations?user=ntydloAAAAAJ&hl=zh-CN" target="_blank"> Google scholar</a>
 
