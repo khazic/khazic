@@ -1,4 +1,4 @@
-<a href=#><img src="IMG_2219.JPG"></a>
+<a href=#><img src="IMG_2219.jpg"></a>
 <h1 align="center"> 𝐻𝑒𝑙𝑙𝑜, 𝑡ℎ𝑖𝑠 𝑖𝑠 𝑘ℎ𝑎𝑧𝑧𝑧1𝑐 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
