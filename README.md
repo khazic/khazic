@@ -1,4 +1,4 @@
-<a href=#><img src="IMG_2219.jpg"></a>
+<!-- <a href=#><img src="IMG_5226.jpg"></a> -->
 <h1 align="center"> 𝐻𝑒𝑙𝑙𝑜, 𝑡ℎ𝑖𝑠 𝑖𝑠 𝑘ℎ𝑎𝑧𝑧𝑧1𝑐 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
@@ -9,12 +9,27 @@
 
 # Life Past
 
-- Can you smell it?
-- The breeze already has that summer vibe.
-- What I'm saying is,
-- In this cool, breezy season,
-- With the sound of the wind, the scent of flowers, and the hustle and bustle,
-- Let's meet up.
+I'm 28
+– 6'1 but that's my only flex
+– got a job + house, but broke from the mortgage
+– wallet dies faster than my phone battery
+– body wrecked, sleep schedule crashed
+– caffeine = daily medicine
+– anxiety = permanent roommate
+– orders takeout more than seeing friends
+– social life: 404 not found
+– Mind like buggy code, keeps crashing
+– Google is basically my therapist
+– gym membership active, calories undefeated
+– replies fast, feelings delayed
+– loves GitHub & Range Rovers, but only online
+– big dreams, tiny balance
+– life's roadmap always delayed
+– terminally online, borderline becoming part of the server
+– an LLM trainer, but life keeps overfitting me
+
+Life feels like a bug, but I haven't rage quit yet. 🚀
+In 2003, I got my first laptop ever. Hope we can ride through the best part of life together.
   
 # GitHub Stats
 
