@@ -9,23 +9,23 @@
 
 # Life Past
 
-I'm 28
-– 6'1 but that's my only flex
-– got a job + house, but broke from the mortgage
-– wallet dies faster than my phone battery
-– body wrecked, sleep schedule crashed
-– caffeine = daily medicine
-– anxiety = permanent roommate
-– orders takeout more than seeing friends
-– social life: 404 not found
-– Mind like buggy code, keeps crashing
-– Google is basically my therapist
-– gym membership active, calories undefeated
-– replies fast, feelings delayed
-– loves GitHub & Range Rovers, but only online
-– big dreams, tiny balance
-– life's roadmap always delayed
-– terminally online, borderline becoming part of the server
+I'm 28<br>
+– 6'1 but that's my only flex<br>
+– got a job + house, but broke from the mortgage<br>
+– wallet dies faster than my phone battery<br>
+– body wrecked, sleep schedule crashed<br>
+– caffeine = daily medicine<br>
+– anxiety = permanent roommate<br>
+– orders takeout more than seeing friends<br>
+– social life: 404 not found<br>
+– Mind like buggy code, keeps crashing<br>
+– Google is basically my therapist<br>
+– gym membership active, calories undefeated<br>
+– replies fast, feelings delayed<br>
+– loves GitHub & Range Rovers, but only online<br>
+– big dreams, tiny balance<br>
+– life's roadmap always delayed<br>
+– terminally online, borderline becoming part of the server<br>
 – an LLM trainer, but life keeps overfitting me
 
 Life feels like a bug, but I haven't rage quit yet. 🚀
