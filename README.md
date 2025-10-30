@@ -9,24 +9,24 @@
 
 # Life Past
 
-I'm 28  
-- 6'1 but that's my only flex  
-- got a job + house, but broke from the mortgage  
-- wallet dies faster than my phone battery  
-- body wrecked, sleep schedule crashed  
-- caffeine = daily medicine  
-- anxiety = permanent roommate  
-- orders takeout more than seeing friends  
-- social life: 404 not found  
-- Mind like buggy code, keeps crashing  
-- Google is basically my therapist  
-- gym membership active, calories undefeated  
-- replies fast, feelings delayed  
-- loves GitHub & Range Rovers, but only online  
-- big dreams, tiny balance  
-- life's roadmap always delayed  
-- terminally online, borderline becoming part of the server  
-- an LLM trainer, but life keeps overfitting me
+I'm 28
+– 6'1 but that's my only flex
+– got a job + house, but broke from the mortgage
+– wallet dies faster than my phone battery
+– body wrecked, sleep schedule crashed
+– caffeine = daily medicine
+– anxiety = permanent roommate
+– orders takeout more than seeing friends
+– social life: 404 not found
+– Mind like buggy code, keeps crashing
+– Google is basically my therapist
+– gym membership active, calories undefeated
+– replies fast, feelings delayed
+– loves GitHub & Range Rovers, but only online
+– big dreams, tiny balance
+– life's roadmap always delayed
+– terminally online, borderline becoming part of the server
+– an LLM trainer, but life keeps overfitting me
 
 Life feels like a bug, but I haven't rage quit yet. 🚀
 In 2003, I got my first laptop ever. Hope we can ride through the best part of life together.
@@ -51,9 +51,3 @@ In 2003, I got my first laptop ever. Hope we can ride through the best part of l
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&link=https://github.com/yourusername)](https://github.com/khazic)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&link=https://github.com/yourusername)](https://github.com/khazic)
 [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&link=https://github.com/yourusername)](https://github.com/khazic)
-
-
-
-
-<hr>
-
