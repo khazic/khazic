@@ -26,10 +26,10 @@ I'm 28<br>
 – big dreams, tiny balance<br>
 – life's roadmap always delayed<br>
 – terminally online, borderline becoming part of the server<br>
-– an LLM trainer, but life keeps overfitting me
+– an LLM trainer, but life keeps overfitting me<br>
 
-Life feels like a bug, but I haven't rage quit yet. 🚀
-In 2003, I got my first laptop ever. Hope we can ride through the best part of life together.
+Life feels like a bug, but I haven't rage quit yet. 🚀<br>
+In 2003, I got my first laptop ever. Hope we can ride through the best part of life together.<br>
   
 # GitHub Stats
 
