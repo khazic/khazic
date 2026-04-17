@@ -4,7 +4,7 @@
 
 📰 **Academic homepage：**<a href="https://scholar.google.com.hk/citations?user=ntydloAAAAAJ&hl=zh-CN" target="_blank"> Google scholar</a>
 
-🐟 **Blog：**<a href="https://khazzz1c.notion.site/khazzz1c-blogs?source=copy_link" target="_blank"> Notion logs</a>
+🐟 **Blog：**<a href="https://www.notion.so/khazzz1c/Khazzz1c-s-Blog-post-151d29780b58801bb2bddd42eb81c73d?source=copy_link" target="_blank"> Notion logs</a>
 
 
 # Life Past
