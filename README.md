@@ -1,8 +1,5 @@
 <!-- <a href=#><img src="IMG_5226.jpg"></a> -->
 <h1 align="center"> 𝐻𝑒𝑙𝑙𝑜, 𝑡ℎ𝑖𝑠 𝑖𝑠 𝑘ℎ𝑎𝑧𝑧𝑧1𝑐 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
-# Life Past
-
 I'm 29<br>
 – 6'1 but that's my only flex<br>
 – got a job + house, but broke from the mortgage<br>
